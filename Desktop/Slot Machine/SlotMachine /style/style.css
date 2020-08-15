@@ -60,3 +60,75 @@ border: 1px solid blue;
 #optionsBet{
   padding-left: 7%;
 }
+.menu{
+  display: none;
+}
+
+
+/* mobile */
+@media screen and (max-width: 561px)
+{
+
+
+
+
+
+img{
+  width:90%;
+  margin: 0;
+}
+h1{
+  width: 90%;
+  background: none;
+}
+#totalBalance,#playButton,#optionsBet{
+  width: 90%;
+  margin: 0;
+  margin-left:9%
+  /* credit to mdn */
+
+}
+.main-slot-section{
+  background-image: none;
+}
+
+.menu{
+  display: contents;
+  font-size: 24px;
+}
+
+}
+
+
+/*tablet */
+@media only screen and (min-width:562px)
+and (max-width: 968px)
+{
+
+.menu{
+  display: contents;
+  font-size: 24px;
+}
+
+.main-slot-section{
+  background-image:none;
+}
+
+img{
+  width:70%;
+  margin: 0;
+  margin-left:9%
+}
+h1{
+  width: 90%;
+  background: none;
+
+}
+#totalBalance,#playButton,#optionsBet{
+  width: 90%;
+  margin: 0;
+  margin-left:9%
+  /* credit to mdn */
+
+}
+}

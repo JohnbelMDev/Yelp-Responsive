@@ -10,13 +10,12 @@
 
  Tech used: HTML, CSS. 
  
- 
  How It's Made:
  
 1: Used a media query at max of 509px
-![Alt Text](https://github.com/JohnbelMDev/Yelp-Responsive/blob/master/YELP.png)
+   ![Alt Text](https://github.com/JohnbelMDev/Yelp-Responsive/blob/master/YELP.png)
 
 2. Used a media query from 600px to 984px for table
-![Alt Text](https://github.com/JohnbelMDev/Yelp-Responsive/blob/master/YElpmediaquery.png)
+    ![Alt Text](https://github.com/JohnbelMDev/Yelp-Responsive/blob/master/YElpmediaquery.png)
   
   

@@ -1,0 +1,20 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: lightblue;
+}
+img{
+  height: 200px;
+}
+h2{
+  text-align: center;
+}
+input{
+  display: block;
+}
+.card{
+  display: inline-block;
+}
+/* .col-sm-6{
+  display: none;
+} */

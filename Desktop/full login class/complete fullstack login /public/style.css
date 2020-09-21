@@ -1,0 +1,25 @@
+body{
+  background-color: orange;
+}
+img{
+  height: 200px;
+}
+.none{
+  display: none
+}
+li{
+  list-style: none;
+}
+body{
+  background-image: url('https://i.pinimg.com/originals/dd/5a/e7/dd5ae76a11d4b813f99565fb51a3b270.jpg');
+}
+h1,span,a,label{
+  color: white;
+}
+.message{
+  width: 50%;
+  background-color: orange;
+  margin-left: 30%;
+  margin-top: 10%;
+
+}

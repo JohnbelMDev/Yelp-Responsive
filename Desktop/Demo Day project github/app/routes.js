@@ -107,6 +107,10 @@ console.log(request.body.id);
 
   });
 
+  app.get('/profile', function(req,res){
+    res.render("profile.ejs")
+
+  });
 
   // app.get()
     // LOGOUT ==============================
